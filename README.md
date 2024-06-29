@@ -9,20 +9,20 @@ In the petroleum industry, understanding the pressure distribution within a rese
 Optimizing petroleum extraction involves understanding how pressure varies throughout the reservoir. This project addresses this issue by creating an interactive web application that allows engineers to visualize the pressure profile dynamically based on various input parameters. This visualization aids in better planning and decision-making, ultimately leading to more efficient and cost-effective operations.
 
 ### Project Features
-Interactive Input Parameters
+Interactive Input Parameters\
 Users can input key parameters through an intuitive sidebar interface:
 
-Permeability (md)
-Viscosity (cp)
-Flowrate (STB/day)
-Outer Radius of Reservoir (ft)
-Wellbore Radius (ft)
-Pressure at the Boundary of Reservoir (psi)
-Formation Volume Factor (bbl/stb)
+Permeability (md)\
+Viscosity (cp)\
+Flowrate (STB/day)\
+Outer Radius of Reservoir (ft)\
+Wellbore Radius (ft)\
+Pressure at the Boundary of Reservoir (psi)\
+Formation Volume Factor (bbl/stb)\
 Net Pay Thickness of Reservoir (feet)
 
 ### Technology Stack
-Programming Language: Python
-Web Framework: Streamlit
-Data Visualization: Matplotlib
+Programming Language: Python\
+Web Framework: Streamlit\
+Data Visualization: Matplotlib\
 Numerical Computation: NumPy
